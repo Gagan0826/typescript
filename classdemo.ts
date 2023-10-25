@@ -9,6 +9,11 @@ class student
     }
 }
 
+
+
+
+
+
 const Gagan=new student("12si2112","Gagan")
 console.log(Gagan)
 export {}
